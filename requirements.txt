@@ -1,0 +1,12 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+wikipedia
+google-generativeai
+python-dotenv
+pygame
+PyPDF2
+requests
+psutil
+pyautogui
+webbrowser
